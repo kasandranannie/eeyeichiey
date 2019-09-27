@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahghoxuaz.angelmar.com/sitemap.xml
